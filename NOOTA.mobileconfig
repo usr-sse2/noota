@@ -24,7 +24,7 @@
 							<key>MobileAssetServerURL-com.apple.MobileAsset.SoftwareUpdate</key>
 							<string>http://localhost</string>
 							<key>MobileAssetServerURL-com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain</key>
-							<string>http://localhoststring>
+							<string>http://localhost</string>
 						</dict>
 					</dict>
 				</array>
